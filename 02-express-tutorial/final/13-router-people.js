@@ -8,7 +8,7 @@ const {
   updatePerson,
   deletePerson,
 } = require('../controllers/people')
-
+ 
 // router.get('/', getPeople)
 // router.post('/', createPerson)
 // router.post('/postman', createPersonPostman)

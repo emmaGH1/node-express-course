@@ -9,4 +9,5 @@ const connectDB = (url) => {
   })
 }
 
+const connectionString = 'mongodb+srv://emma:<password>@nodeexpressprojects.a9gham0.mongodb.net/?retryWrites=true&w=majority'
 module.exports = connectDB
